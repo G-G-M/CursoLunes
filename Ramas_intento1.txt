@@ -1,1 +1,2 @@
 Caso ideal al trabajar con ramas.
+Modificación fácil de resolver.
